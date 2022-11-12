@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Greeting Stranger
+Welcome to a basic website made a beginner software developer.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Construction is still in progress
